@@ -1250,20 +1250,6 @@
     "display_name": "Inosuke Hashibira",
     "collection": "Demon Slayer",
     "category": "pets",
-    "file_name": "demon-slayer-inosuke-hashibira-animated-custom-cursor (1).gif",
-    "file_path": "Mugis/Demon Slayer/Pets/demon-slayer-inosuke-hashibira-animated-custom-cursor (1).gif",
-    "size_bytes": 56355,
-    "size_display": "55.0 KB",
-    "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugis/main/Mugis/Demon%20Slayer/Pets/demon-slayer-inosuke-hashibira-animated-custom-cursor%20(1).gif",
-    "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugis/main/Mugis/Demon%20Slayer/Pets/demon-slayer-inosuke-hashibira-animated-custom-cursor%20(1).gif",
-    "is_free": true,
-    "is_premium": false
-  },
-  {
-    "id": "demon_slayer_inosuke_hashibira_2",
-    "display_name": "Inosuke Hashibira",
-    "collection": "Demon Slayer",
-    "category": "pets",
     "file_name": "demon-slayer-inosuke-hashibira-animated-custom-cursor.gif",
     "file_path": "Mugis/Demon Slayer/Pets/demon-slayer-inosuke-hashibira-animated-custom-cursor.gif",
     "size_bytes": 56355,
@@ -1345,20 +1331,6 @@
   },
   {
     "id": "demon_slayer_pixel_tanjiro_kamado_run",
-    "display_name": "Pixel Tanjiro Kamado Run",
-    "collection": "Demon Slayer",
-    "category": "pets",
-    "file_name": "demon-slayer-pixel-tanjiro-kamado-run-custom-progress-bar-a (1).webp",
-    "file_path": "Mugis/Demon Slayer/Pets/demon-slayer-pixel-tanjiro-kamado-run-custom-progress-bar-a (1).webp",
-    "size_bytes": 12702,
-    "size_display": "12.4 KB",
-    "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugis/main/Mugis/Demon%20Slayer/Pets/demon-slayer-pixel-tanjiro-kamado-run-custom-progress-bar-a%20(1).webp",
-    "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugis/main/Mugis/Demon%20Slayer/Pets/demon-slayer-pixel-tanjiro-kamado-run-custom-progress-bar-a%20(1).webp",
-    "is_free": true,
-    "is_premium": false
-  },
-  {
-    "id": "demon_slayer_pixel_tanjiro_kamado_run_2",
     "display_name": "Pixel Tanjiro Kamado Run",
     "collection": "Demon Slayer",
     "category": "pets",
@@ -2187,7 +2159,7 @@
     "id": "one_piece_crying_choper",
     "display_name": "Crying Choper",
     "collection": "One Piece",
-    "category": "clip",
+    "category": "pets",
     "file_name": "Crying_Choper.gif",
     "file_path": "Mugis/One Piece/Clip/Crying_Choper.gif",
     "size_bytes": 55123,
@@ -3038,8 +3010,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog",
-    "display_name": "The Hedgehog",
+    "id": "sonic_sonic_the_hedgehog_custom_progress_bar_a",
+    "display_name": "Sonic-the-hedgehog-custom-progress-bar-a",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-custom-progress-bar-a.webp",
@@ -3052,8 +3024,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog_doctor_eggman_pixel_running",
-    "display_name": "The Hedgehog Doctor Eggman Pixel Running",
+    "id": "sonic_doctor_eggman_pixel_running",
+    "display_name": "Doctor Eggman Pixel Running",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-doctor-eggman-pixel-running-custom-progress-bar-a.webp",
@@ -3066,8 +3038,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog_knuckles_the_echidna_pixel_roll",
-    "display_name": "The Hedgehog Knuckles The Echidna Pixel Roll",
+    "id": "sonic_knuckles_the_echidna_pixel_roll",
+    "display_name": "Knuckles The Echidna Pixel Roll",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-knuckles-the-echidna-pixel-roll-custom-progress-bar-a.webp",
@@ -3080,8 +3052,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog_knuckles_the_echidna_pixel_run",
-    "display_name": "The Hedgehog Knuckles The Echidna Pixel Run",
+    "id": "sonic_knuckles_the_echidna_pixel_run",
+    "display_name": "Knuckles The Echidna Pixel Run",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-knuckles-the-echidna-pixel-run-custom-progress-bar-a.webp",
@@ -3094,8 +3066,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog_miles_in_a_plane",
-    "display_name": "The Hedgehog Miles In A Plane",
+    "id": "sonic_miles_in_a_plane",
+    "display_name": "Miles In A Plane",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-miles-in-a-plane-custom-progress-bar-a.webp",
@@ -3108,8 +3080,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog_pixel_dash",
-    "display_name": "The Hedgehog Pixel Dash",
+    "id": "sonic_pixel_dash",
+    "display_name": "Pixel Dash",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-pixel-dash-custom-progress-bar-a.webp",
@@ -3122,8 +3094,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog_pixel_run",
-    "display_name": "The Hedgehog Pixel Run",
+    "id": "sonic_pixel_run",
+    "display_name": "Pixel Run",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-pixel-run-custom-progress-bar-a.webp",
@@ -3136,8 +3108,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog_pixel_run_emotions",
-    "display_name": "The Hedgehog Pixel Run Emotions",
+    "id": "sonic_pixel_run_emotions",
+    "display_name": "Pixel Run Emotions",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-pixel-run-emotions-custom-progress-bar-a.webp",
@@ -3150,8 +3122,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog_rogue_the_bat_pixel_flying",
-    "display_name": "The Hedgehog Rogue The Bat Pixel Flying",
+    "id": "sonic_rogue_the_bat_pixel_flying",
+    "display_name": "Rogue The Bat Pixel Flying",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-rogue-the-bat-pixel-flying-custom-progress-bar-a.webp",
@@ -3164,8 +3136,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog_running",
-    "display_name": "The Hedgehog Running",
+    "id": "sonic_running",
+    "display_name": "Running",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-running-custom-progress-bar-a.webp",
@@ -3178,8 +3150,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog_shadow_the_the_hedgehog_running_pixel",
-    "display_name": "The Hedgehog Shadow The The Hedgehog Running Pixel",
+    "id": "sonic_shadow_the_the_hedgehog_running_pixel",
+    "display_name": "Shadow The The Hedgehog Running Pixel",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-shadow-the-the-hedgehog-running-pixel-custom-progress-bar-a.webp",
@@ -3192,8 +3164,8 @@
     "is_premium": false
   },
   {
-    "id": "sonic_the_hedgehog_tails_flying",
-    "display_name": "The Hedgehog Tails Flying",
+    "id": "sonic_tails_flying",
+    "display_name": "Tails Flying",
     "collection": "Sonic",
     "category": "pets",
     "file_name": "sonic-the-hedgehog-tails-flying-custom-progress-bar-a.webp",
@@ -3669,20 +3641,6 @@
   },
   {
     "id": "super_mario_run_pixel",
-    "display_name": "Run Pixel",
-    "collection": "Super Mario",
-    "category": "pets",
-    "file_name": "super-mario-run-pixel-custom-progress-bar-a (1).webp",
-    "file_path": "Mugis/Super Mario/Pets/super-mario-run-pixel-custom-progress-bar-a (1).webp",
-    "size_bytes": 12718,
-    "size_display": "12.4 KB",
-    "preview_url": "https://raw.githubusercontent.com/fwsiddharth/Mugis/main/Mugis/Super%20Mario/Pets/super-mario-run-pixel-custom-progress-bar-a%20(1).webp",
-    "download_url": "https://raw.githubusercontent.com/fwsiddharth/Mugis/main/Mugis/Super%20Mario/Pets/super-mario-run-pixel-custom-progress-bar-a%20(1).webp",
-    "is_free": true,
-    "is_premium": false
-  },
-  {
-    "id": "super_mario_run_pixel_2",
     "display_name": "Run Pixel",
     "collection": "Super Mario",
     "category": "pets",
